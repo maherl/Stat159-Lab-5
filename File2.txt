@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# change of User B
+# change of User B of task 4
 =======
 change1
 >>>>>>> 6bb32f4a59f42388fdfa166f2c1f6e8cbdaea2f7
